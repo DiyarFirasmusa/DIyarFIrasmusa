@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-2_Years-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Iraq-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-15+-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-25+-green?style=for-the-badge" />
 </p>
 
 ---
