@@ -21,41 +21,47 @@ I don't just build websites; I engineer high-performance digital products. With 
 | **2025 - Pres.** | **Team Leader of Front End** | **SAS** - Leading ERP & Iraqi Tourism Platforms |
 | **2025 - Pres.** | **Frontend Developer** | **SuperNova** - Ministry of Youth & gurdLink |
 | **2025 - Pres.** | **Frontend Developer** | **Infotech** - Rasheed Bank & garsco Real Estate |
-| **2024 - Pres.** | **Freelance Expert** | Delivered **15+** high-performance projects |
+| **2024 - Pres.** | **Freelance Expert** | Delivered **25+** high-performance projects |
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Frameworks</strong></td>
-    <td align="center"><strong>State & Logic</strong></td>
-    <td align="center"><strong>UI & Tools</strong></td>
-  </tr>
-  <tr>
-    <td>
-      • React / Next.js<br/>
-      • Vue.js / Nuxt.js<br/>
-      • ES7+ JavaScript
-    </td>
-    <td>
-      • TanStack Query<br/>
-      • Pinia / Zustand<br/>
-      • Axios / Zod / Yup
-    </td>
-    <td>
-      • Tailwind / ShadCN<br/>
-      • Vuetify / SCSS<br/>
-      • TypeScript / Vite
-    </td>
-  </tr>
-</table>
+#### 💻 Frameworks & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,html,css" />
+</p>
+
+#### ⚙️ State, Logic & Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux,pinia,tanstack,axios,zod" />
+  <img src="https://img.shields.io/badge/Zustand-443e38?style=flat-square&logo=react&logoColor=white" />
+</p>
+
+#### 🎨 UI, Styling & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,figma,photoshop" />
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
+</p>
+
+#### 🔧 Tools & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,netlify,npm,postman" />
+</p>
 
 ---
 
 ### 🎓 Education
 * 🏛️ **B.Sc. in Computer Science** – *University of Technology, Iraq* (2022 – 2026)
+
+---
+
+### 📊 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiyarFirasmusa&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyarFirasmusa&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
+</p>
 
 ---
 
@@ -65,3 +71,5 @@ I don't just build websites; I engineer high-performance digital products. With 
 <a href="mailto:diyarfirasoffical@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/9647774782440"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
+
+<p align="right"><i>"I engineering solutions that serve the user and the vision."</i></p>
