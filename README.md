@@ -1,35 +1,27 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Diyar%20Firas&fontSize=80&animation=fadeIn" />
-</p>
+<h1 align="center">🚀 Hi, I'm Diyar Firas</h1>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diyar-firas-118187259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:diyarfirasoffical@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/9647774782440"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Experience-2_Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Iraq-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-15+-green?style=for-the-badge" />
 </p>
-
-### 👨‍💻 About Me
-**Frontend Developer
-
-I am a results-driven Frontend Developer with 2 years of professional experience, currently leading engineering teams to build high-performance digital products. I specialize in **React** and **Vue** ecosystems, engineering scalable, user-centric solutions with a founder’s mindset. I ensure every line of code serves the long-term vision of the product.
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiyarFirasmusa&theme=tokyonight&no-bg=true&margin-w=15" alt="Diyar's Trophies" />
-</p>
+### 👨‍💻 Professional Summary
+I don't just build websites; I engineer high-performance digital products. With 2 years of experience and a **Team Lead** background, I specialize in **React** and **Vue** ecosystems. I bring a founder’s mindset to every project, ensuring technical scalability and business success.
 
 ---
 
 ### 💼 Professional Experience
 
-| Period | Role | Company / Project |
+| Period | Role | Company / Impact |
 | :--- | :--- | :--- |
-| **2025 - Pres.** | **Team Leader of Front End** | **SAS** - Internal ERP & Iraqi Tourism Platforms |
-| **2025 - Pres.** | **Frontend Developer** | **SuperNova** - Iraqi Ministry of Youth & gurdLink |
+| **2025 - Pres.** | **Team Leader of Front End** | **SAS** - Leading ERP & Iraqi Tourism Platforms |
+| **2025 - Pres.** | **Frontend Developer** | **SuperNova** - Ministry of Youth & gurdLink |
 | **2025 - Pres.** | **Frontend Developer** | **Infotech** - Rasheed Bank & garsco Real Estate |
-| **2024 - Pres.** | **Independent Expert** | **Freelance** - Successfully delivered 15+ Projects |
+| **2024 - Pres.** | **Freelance Expert** | Delivered **15+** high-performance projects |
 
 ---
 
@@ -37,49 +29,39 @@ I am a results-driven Frontend Developer with 2 years of professional experience
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><strong>Frameworks</strong></td>
-    <td align="center" width="25%"><strong>State & Logic</strong></td>
-    <td align="center" width="25%"><strong>UI & Styling</strong></td>
-    <td align="center" width="25%"><strong>Core Tools</strong></td>
+    <td align="center"><strong>Frameworks</strong></td>
+    <td align="center"><strong>State & Logic</strong></td>
+    <td align="center"><strong>UI & Tools</strong></td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" /><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" /><br/>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs" /><br/>
-      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs" />
+      • React / Next.js<br/>
+      • Vue.js / Nuxt.js<br/>
+      • ES7+ JavaScript
     </td>
     <td>
-      <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=react-query" /><br/>
-      <img src="https://img.shields.io/badge/Pinia-ffe162?style=flat&logo=pinia&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Zustand-443e38?style=flat" /><br/>
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios" />
+      • TanStack Query<br/>
+      • Pinia / Zustand<br/>
+      • Axios / Zod / Yup
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css" /><br/>
-      <img src="https://img.shields.io/badge/ShadCN-000000?style=flat&logo=shadcnui" /><br/>
-      <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify" /><br/>
-      <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript" /><br/>
-      <img src="https://img.shields.io/badge/ES7+-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod" /><br/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite" />
+      • Tailwind / ShadCN<br/>
+      • Vuetify / SCSS<br/>
+      • TypeScript / Vite
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Ecosystem
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiyarFirasmusa&show_icons=true&theme=tokyonight&hide_border=true" alt="Diyar's Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyarFirasmusa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiyarFirasmusa&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyarFirasmusa&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiyarFirasmusa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DiyarFirasmusa&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
 </p>
 
 ---
@@ -89,9 +71,11 @@ I am a results-driven Frontend Developer with 2 years of professional experience
 
 ---
 
-### 🐍 Contribution Graph
+### 📞 Connect with Me
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiyarFirasmusa&theme=tokyonight&hide_border=true" width="100%" />
+<a href="https://www.linkedin.com/in/diyar-firas-118187259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:diyarfirasoffical@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/9647774782440"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<p align="right"><i>"I don't just build sites; I engineer solutions."</i></p>
+<p align="right"><i>"I engineering solutions that serve the user and the vision."</i></p>
