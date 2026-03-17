@@ -54,18 +54,6 @@ I don't just build websites; I engineer high-performance digital products. With 
 
 ---
 
-### 📊 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiyarFirasmusa&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyarFirasmusa&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiyarFirasmusa&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
-</p>
-
----
-
 ### 🎓 Education
 * 🏛️ **B.Sc. in Computer Science** – *University of Technology, Iraq* (2022 – 2026)
 
