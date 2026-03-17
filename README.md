@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Diyar Firas 
-### Frontend Team Lead | Frontend Developer | Entrepreneurial Strategist
+### Frontend Developer 
 
 I am a Frontend Developer with 2 years of professional experience, currently leading teams to engineer high-performance digital products. I specialize in building scalable, user-centric solutions with a founder’s mindset—ensuring every line of code drives real business value and market success.
 
