@@ -41,12 +41,8 @@ I don't just build websites; I engineer high-performance digital products. With 
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=DiyarFirasmusa&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
-
----
-
 ### 🎓 Education
-🏛️ **B.Sc. in Computer Science**
+🏛️ in Computer Science**
 *University of Technology, Iraq (2022 – 2026)*
 
 ---
