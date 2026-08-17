@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 Professional Summary
-I don't just build websites; I engineer high-performance digital products. With 2 years of professional experience and a **Team Lead** background, I specialize in **React** and **Vue** ecosystems. I bring a founder’s mindset to every project, ensuring technical scalability and business success.
+I don't just build websites; I engineer high-performance digital products. With 3 years of professional experience and a **Team Lead** background, I specialize in **React** and **Vue** ecosystems. I bring a founder’s mindset to every project, ensuring technical scalability and business success.
 
 ---
 
